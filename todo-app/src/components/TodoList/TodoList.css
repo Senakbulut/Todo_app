@@ -1,0 +1,15 @@
+.list-group-item {
+  margin: 10px;
+}
+
+.line{
+  text-decoration: line-through;
+}
+.list-group-item button{
+  position: absolute;
+  left: 90%;
+  top: 10%;
+}
+.remove{
+  display: none;
+}
